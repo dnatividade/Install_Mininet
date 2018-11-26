@@ -81,9 +81,15 @@ cd $HOME/Downloads/Install_Mininet
 sudo mv ExeMininet.mn $HOME/Área\ de\ Trabalho
 sudo mv miniedit.sh $HOME/mininet/examples
 sudo chmod +x $HOME/mininet/examples/miniedit.sh 
+sudo chown root $HOME/mininet/examples/miniedit.sh 
+sudo chgrp root $HOME/mininet/examples/miniedit.sh 
 sudo mv miniedit.xpm $HOME/mininet/examples
+sudo chown root $HOME/mininet/examples/miniedit.xpm 
+sudo chgrp root $HOME/mininet/examples/miniedit.xpm
 sudo mv miniedit.desktop /usr/share/applications 
 sudo chmod 644 /usr/share/applications/miniedit.desktop
+sudo chown root /usr/share/applications/miniedit.desktop  
+sudo chgrp root /usr/share/applications/miniedit.desktop
 sleep 3
 clear
 
