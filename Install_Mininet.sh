@@ -89,5 +89,3 @@ clear
 echo ""
 echo "Instalação Finalizada :)"
 echo ""
-echo "A máquina será reiniciada!!!"
-sleep 5
