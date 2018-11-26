@@ -75,15 +75,20 @@ sudo mn --test pingall
 sleep 3
 clear
 
-echo "Movendo Icone e Script do Miniedit"
+echo "Movendo Icone, Script do Miniedit e arquivo de exemplo..."
 sleep 3
 cd $HOME/Downloads/Install_Mininet
 sudo mv ExeMininet.mn $HOME/Área\ de\ Trabalho
 sudo mv miniedit.sh $HOME/mininet/examples
+sudo chmod +x $HOME/mininet/examples/miniedit.sh 
 sudo mv miniedit.xpm $HOME/mininet/examples
 sudo mv miniedit.desktop /usr/share/applications 
 sudo chmod 644 /usr/share/applications/miniedit.desktop
+sleep 3
+clear
 
 echo ""
 echo "Instalação Finalizada :)"
 echo ""
+echo "A máquina será reiniciada!!!"
+sleep 5
