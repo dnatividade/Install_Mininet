@@ -3,7 +3,6 @@
 ######################################################
 # Script de Instalação do Mininet                    #
 # Versão: 1.0                                        #
-# Autor: Cairo Ap. Campos (cairoapcampos@hotmail.com)#
 ######################################################
 
 clear
