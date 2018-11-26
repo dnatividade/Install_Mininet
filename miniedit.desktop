@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Miniedit
+Comment=Interface Grafica para o Mininet
+Exec=/home/sdn/mininet/examples/miniedit.sh
+Icon=/home/sdn/mininet/examples/miniedit.xpm
+Terminal=true
+Type=Application
+Name[en_US]=MiniEdit
+Name[pt_BR]=MiniEdit
