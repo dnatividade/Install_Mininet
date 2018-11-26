@@ -14,13 +14,6 @@ sudo apt-get update
 sleep 3
 clear
 
-echo "Instando o Git, por favor aguarde..."
-sleep 3
-echo " "
-sudo apt-get  install -y git
-sleep 3
-clear
-
 echo "Instando o ifconfig, por favor aguarde..."
 sleep 3
 echo " "
