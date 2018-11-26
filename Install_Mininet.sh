@@ -72,6 +72,17 @@ echo "Testando a instalação do Mininet com uma topologia minimal..."
 sleep 3
 echo " "
 sudo mn --test pingall
+sleep 3
+clear
+
+echo "Movendo Icone e Script do Miniedit"
+sleep 3
+cd $HOME/Downloads/Install_Mininet
+sudo mv ExeMininet.mn $HOME/Área\ de\ Trabalho
+sudo mv miniedit.sh $HOME/mininet/examples
+sudo mv miniedit.xpm $HOME/mininet/examples
+sudo mv miniedit.desktop /usr/share/applications 
+sudo chmod 644 /usr/share/applications/miniedit.desktop
 
 echo ""
 echo "Instalação Finalizada :)"
