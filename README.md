@@ -16,7 +16,11 @@ git clone https://github.com/cairoapcampos/Install_Mininet.git
 
 cd Install_Mininet
 
-5. Executar o Script
+5. Dar permissão de execução no script
+
+sudo chmod +x Install_Mininet.sh
+
+6. Executar o Script
 
 sh Install_Mininet.sh
 
