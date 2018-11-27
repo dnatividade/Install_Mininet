@@ -46,20 +46,9 @@ clear
 echo "Instalando o Mininet, o POX e depedências necessárias..."
 sleep 3
 echo " "
-
-echo "Etapa 1 de instalação iniciada..."
-sleep 3
-echo " "
 sudo ~/mininet/util/install.sh -a
 sleep 3
 clear
-
-#echo "Etapa 2 de instalação iniciada..."
-#sleep 3
-#echo " "
-#sudo ~/mininet/util/install.sh -nfv
-#sleep 3
-#clear
 
 echo "Testando a instalação do Mininet com uma topologia minimal..."
 sleep 3
