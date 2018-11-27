@@ -6,7 +6,7 @@ cd /home/usuario/Downloads
 
 sudo apt-get install -y git
 
-3. Fazer o Download do repositório
+3. Fazer o download do repositório
 
 git clone https://github.com/cairoapcampos/Install_Mininet.git
 
