@@ -34,3 +34,12 @@ Credenciais:
 Usuário: sdn
 
 Senha: mininet
+
+
+Fontes utilizadas:
+
+http://mininet.org/download/#option-2-native-installation-from-source
+
+http://www.brianlinkletter.com/how-to-install-mininet-sdn-network-simulator/
+
+https://www.youtube.com/watch?v=2jWs_9_1B8w
