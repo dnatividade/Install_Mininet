@@ -1,5 +1,9 @@
 #!/usr/bin/python
-
+#
+# Adaptado de: KAUR, K.; SINGH, J.; GHUMMAN, N. S. Mininet as software defined networking testing platform. 
+# In: International Conference on Communication, Computing & Systems (ICCCS–2014). [s.n.], 2014. 
+# Disponível em:  <http://www.sbsstc.ac.in/icccs2014/Papers/Paper29.pdf>.
+#
 from mininet.topo import Topo
 from mininet.net import Mininet
 from mininet.cli import CLI
