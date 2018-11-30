@@ -25,7 +25,7 @@ def performaceTest():
     topo = SingleTopologyPerformance(k=5)
     net = Mininet(topo=topo, host=CPULimitedHost, link=TCLink)
     net.start()
-    print "Exebindo informacoes de conexao do host"
+    print "Exibindo informacoes de conexao do host"
     dumpNodeConnections(net.hosts)
     print "Testando a conectividade de rede"
     net.pingAll()
