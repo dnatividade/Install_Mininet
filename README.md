@@ -1,8 +1,10 @@
-Passos para a instalação do Mininet:
+
+
+## Instruções de Utilização ![status](https://img.shields.io/readthedocs/pip.svg)
 
 1. Entrar no diretório de Downloads
 
-`cd /home/usuario/Downloads`
+`cd $HOME/Downloads`
 
 2. Instalar o Git
 
