@@ -2,7 +2,7 @@ Passos para a instalação do Mininet:
 
 1. Entrar no diretório de Downloads
 
-cd /home/usuario/Downloads
+´cd /home/usuario/Downloads´
 
 2. Instalar o Git
 
