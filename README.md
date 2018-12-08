@@ -39,12 +39,12 @@ Caso se deseje uma VM pronta, no link abaixo pode-se fazer o download de uma ima
 
 #### Credenciais:
 
-Usuário: sdn
+**Usuário: sdn**
 
-Senha: mininet
+**Senha: mininet**
 
 
-Fontes utilizadas:
+#### Fontes utilizadas:
 
 http://mininet.org/download/#option-2-native-installation-from-source
 
