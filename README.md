@@ -2,6 +2,8 @@
 
 ## Instruções de Utilização ![status](https://img.shields.io/readthedocs/pip.svg)
 
+### Passos Básicos
+
 1. Entrar no diretório de Downloads
 
 `cd $HOME/Downloads`
@@ -29,7 +31,7 @@
 
 Obs: Script de instalação homologado para as versões 14.04, 16.04 e 18.04 do GNU/Linux Ubuntu.
 
-Máquina Virtual Pronta 
+### Máquina Virtual Pronta 
 
 Caso se deseje uma VM pronta, no link abaixo pode-se fazer o download de uma imagem do GNU/Linux Ubuntu 18.04.
 
