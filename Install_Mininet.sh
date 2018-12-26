@@ -39,7 +39,7 @@ clear
 echo "Fazendo o download do Mininet..."
 sleep 3
 echo " "
-sudo git clone git://github.com/mininet/mininet
+git clone git://github.com/mininet/mininet
 sleep 3
 clear
 
