@@ -46,7 +46,7 @@ clear
 echo "Instalando o Mininet, o POX e depedências necessárias..."
 sleep 3
 echo " "
-sudo ~/mininet/util/install.sh -a
+~/mininet/util/install.sh -a
 sleep 3
 clear
 
