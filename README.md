@@ -26,7 +26,7 @@
 
 6. Executar o Script
 
-`sh Install_Mininet.sh`
+`./Install_Mininet.sh`
 
 
 Obs: Script de instalação homologado para as versões 14.04, 16.04 e 18.04 do GNU/Linux Ubuntu.
